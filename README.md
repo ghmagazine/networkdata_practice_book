@@ -1,8 +1,9 @@
 # データのつながりを活かす技術
 
-<a href="https://gihyo.jp/book/2023/978-4-297-13633-8"><img src="misc/cover-small.png" width="200"></a>
-
 「[データのつながりを活かす技術〜ネットワーク／グラフデータの機械学習から得られる新視点](https://gihyo.jp/book/2023/978-4-297-13633-8)」（2025）のリポジトリです。
+
+<a href="https://gihyo.jp/book/2025/978-4-297-14784-6"><img src="cover-small.jpg" width="300"></a>
+
 
 ## コード
 
